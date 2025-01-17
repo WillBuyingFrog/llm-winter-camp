@@ -1,0 +1,9 @@
+.idea/
+
+
+output/
+result/
+results/
+
+*.txt
+*.sh
