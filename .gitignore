@@ -4,6 +4,8 @@
 output/
 result/
 results/
+repos/
+.DS_Store
 
 *.txt
 *.sh
